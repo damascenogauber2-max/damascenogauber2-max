@@ -8,7 +8,7 @@
 
 ## 🔹 Sobre mim
 - 📍 São Paulo - SP  
-- ⏳ Estudante do **1º semestre de Gestão da TI**  
+- ⏳ Estudante do **2º semestre de Gestão da TI**  
 - 🌙 Período noturno | Disponibilidade total para estágio  
 - 🚀 Proativo, responsável, pontual e sempre em busca de aprendizado  
 
@@ -26,7 +26,7 @@
 - Sistemas Operacionais: **Windows | Linux**  
 - Redes: **Configuração e suporte físico/lógico**  
 - Ferramentas: **Pacote Office**  
-- Iniciando em: **AWS Cloud | Power BI | CCNA**  
+- Iniciando em: **AWS Cloud | CCNA**  
 
 ---
 
@@ -35,7 +35,7 @@
 
 - ☁️ [Exercícios AWS Cloud](#) *(em breve)*  
 - 🖧 [Configurações de Redes no Packet Tracer](#) *(em breve)*  
-- 📊 [Dashboards Power BI](#) *(em breve)*  
+  
 - 🖥️ [Scripts e automações simples](#) *(em breve)*  
 
 ---
@@ -43,7 +43,7 @@
 ## 🔹 Contato
 - 📱 (11) 99797-1203  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gauber-damasceno-29a816275)  
-- 📧 gauberdamasceno@gmail.com *(ou seu e-mail preferido)*  
+- 📧 damascenogauber2@gmail.com *(ou seu e-mail preferido)*  
 
 ---
 
